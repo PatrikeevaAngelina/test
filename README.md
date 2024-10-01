@@ -18,3 +18,6 @@ int main() {
 }
 ```
 b////
+
+
+![Alt text](nq.jpg)
